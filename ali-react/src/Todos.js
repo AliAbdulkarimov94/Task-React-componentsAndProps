@@ -35,3 +35,5 @@ const todosData = [
         deadline: "Tomorrow"
     }
 ];
+
+export default todosData
